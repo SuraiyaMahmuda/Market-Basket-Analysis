@@ -24,7 +24,7 @@ To segment customers based on purchasing behavior using **K-Means Clustering**, 
 - **Environment:** Jupyter Notebook  
 - **Libraries:**
   - `pandas`, `numpy`, `matplotlib`, `seaborn`
-  - `sklearn` (KMeans)
+  - `sklearn` 
 
 ---
 
