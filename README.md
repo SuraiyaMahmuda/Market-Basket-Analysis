@@ -1,14 +1,12 @@
 # Market-Basket-Analysis
 
-# 🛒 Market Basket Analysis using K-Means Clustering
-
 ## 📌 Objective
-To segment customers based on purchasing behavior using **K-Means Clustering**, which helps in identifying groups of similar behavior for better marketing strategy.
+This project focuses on identifying customer segments based on purchasing patterns using **K-Means clustering**. By analyzing spending scores and annual incomes, it aims to support data-driven marketing strategies.
 
 ---
 
 ## 📁 Data Source
-**File Used:** `mall customers.csv`
+**File Used:** `mall customers.csv` (collected from kaggle)
 
 **Features:**
 - `CustomerID`
@@ -60,4 +58,4 @@ Visualizations provided clear insights into customer behavior patterns.
 ---
 
 ## ✅ Conclusion
-K-Means clustering successfully segmented customers, enabling businesses to create targeted and efficient marketing strategies based on income and spending behavior.
+K-Means effectively segmented customers into five distinct groups. These insights can help businesses personalize marketing efforts and improve customer engagement.
